@@ -86,10 +86,9 @@ Project AEGIS helps disaster-affected communities by providing immediate shelter
 ---
 
 ## Team
-- Your Name – Team Leader
-- Team Member 1
-- Team Member 2
-
+- Ayush kumar singh – Team Leader
+-Archisman Bhattacharjee
+- Priyanshi Mathur
 ---
 
 ## Achievement
